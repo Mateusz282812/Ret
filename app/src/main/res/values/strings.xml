@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comarch_APP</string>
+    <string name="titleLabel">Title</string>
+    <string name="dateLabel">Date</string>
+    <string name="backBtnLabel">Back</string>
+    <string name="nextBtnLabel">Next</string>
+    <string name="image">Image</string>
+</resources>
